@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Wed Jun  8 17:19:13 2022 as: nmap -Pn -sS -sV --open -O -sC --reason -p0- -T4 -oA grupoprogemisa.es grupoprogemisa.es
+Failed to resolve "grupoprogemisa.es".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Jun  8 17:19:13 2022 -- 0 IP addresses (0 hosts up) scanned in 0.32 seconds

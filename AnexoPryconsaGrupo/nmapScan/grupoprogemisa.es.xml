@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.92 scan initiated Wed Jun  8 17:19:13 2022 as: nmap -Pn -sS -sV -&#45;open -O -sC -&#45;reason -p0- -T4 -oA grupoprogemisa.es grupoprogemisa.es -->
+<nmaprun scanner="nmap" args="nmap -Pn -sS -sV -&#45;open -O -sC -&#45;reason -p0- -T4 -oA grupoprogemisa.es grupoprogemisa.es" start="1654723153" startstr="Wed Jun  8 17:19:13 2022" version="7.92" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65536" services="0-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<runstats><finished time="1654723153" timestr="Wed Jun  8 17:19:13 2022" summary="Nmap done at Wed Jun  8 17:19:13 2022; 0 IP addresses (0 hosts up) scanned in 0.32 seconds" elapsed="0.32" exit="success"/><hosts up="0" down="0" total="0"/>
+</runstats>
+</nmaprun>

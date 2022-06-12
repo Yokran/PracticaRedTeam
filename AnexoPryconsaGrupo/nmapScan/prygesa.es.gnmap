@@ -1,0 +1,2 @@
+# Nmap 7.92 scan initiated Wed Jun  8 17:20:50 2022 as: nmap -Pn -sS -sV --open -O -sC --reason -p0- -T4 -oA prygesa.es prygesa.es
+# Nmap done at Wed Jun  8 17:21:00 2022 -- 0 IP addresses (0 hosts up) scanned in 10.32 seconds

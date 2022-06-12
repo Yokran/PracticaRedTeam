@@ -1,0 +1,7 @@
+Source                        	Type                                         	Data
+sfp_skymem                    	Email Address                                	alfonso.jordan@grupoprogemisa.com
+sfp_skymem                    	Email Address                                	progemisa@grupoprogemisa.com
+sfp_emailformat               	Email Address                                	antonio.galayo@grupoprogemisa.com
+sfp_emailformat               	Email Address                                	alfonso.jordan@grupoprogemisa.com
+sfp_emailformat               	Email Address                                	progemisa@grupoprogemisa.com
+sfp_emailformat               	Email Address                                	departamento.ventas@grupoprogemisa.com

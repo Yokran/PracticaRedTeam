@@ -1,0 +1,10 @@
+Source                        	Type                                         	Data
+sfp_skymem                    	Email Address                                	juceta@prygesa.es
+sfp_skymem                    	Email Address                                	privacidad@prygesa.es
+sfp_skymem                    	Email Address                                	comercial@prygesa.es
+sfp_emailformat               	Email Address                                	pmoreno@prygesa.es
+sfp_emailformat               	Email Address                                	jpeinado@prygesa.es
+sfp_emailformat               	Email Address                                	materron@prygesa.es
+sfp_emailformat               	Email Address                                	jhurtado@prygesa.es
+sfp_emailformat               	Email Address                                	mchercoles@prygesa.es
+sfp_emailformat               	Email Address                                	lromo@prygesa.es
